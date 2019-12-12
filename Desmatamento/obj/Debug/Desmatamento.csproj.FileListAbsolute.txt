@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\bin\Debug\Desmatamento.exe.config
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\bin\Debug\Desmatamento.exe
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\bin\Debug\Desmatamento.pdb
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\bin\Debug\DIPLi.dll
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.Form1.resources
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.exe
+C:\Users\Aluno\Desktop\Desmatamento\Desmatamento\obj\Debug\Desmatamento.pdb
